@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Usus_besar" size="100.000000 59.402985" />
+    <ImageTarget name="Usus_halus" size="100.000000 56.118881" />
+    <ImageTarget name="Kerongkongan" size="100.000000 53.306614" />
+    <ImageTarget name="Paru-paru" size="100.000000 86.516853" />
+    <ImageTarget name="Liver" size="100.000000 57.543102" />
+    <ImageTarget name="Lambung" size="100.000000 58.000000" />
+    <ImageTarget name="Mulut" size="100.000000 66.375549" />
+  </Tracking>
+</QCARConfig>
